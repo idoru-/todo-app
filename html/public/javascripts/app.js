@@ -1,4 +1,4 @@
-var TodoList = React.createClass({
+window.TodoList = React.createClass({
   render: function() {
       return (
         <div className="todoListMain">
